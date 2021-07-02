@@ -27,3 +27,5 @@ using namespace std;
 ```
 
 Inline formatting lets you format `variables` as code
+
+Hey, there. It's a new line :wave: 
